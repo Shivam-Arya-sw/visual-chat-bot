@@ -1,5 +1,6 @@
 fastapi
-uvicorn[standard]
-python-multipart
-pillow
+uvicorn
+gunicorn
 requests
+pillow
+python-multipart
